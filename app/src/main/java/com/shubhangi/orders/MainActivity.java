@@ -28,7 +28,7 @@ public class MainActivity extends Activity {
     private JSONObject json;
 
     private int success = 0;
-    private String path = "http://ungummed-compliance.000webhostapp.com/order.php";
+    private String path = "http://yourdomain/order.php";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
