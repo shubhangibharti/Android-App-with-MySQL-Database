@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\shubhi\shubhi\Orders\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01efae7dc2d83e0a470215a78e1437763981cd2d">
+        <dex dex="F:\shubhi\shubhi\Orders\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_733b687b535a4f13700461ab31329e2f99de786f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\shubhi\shubhi\Orders\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="F:\shubhi\shubhi\Orders\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_cd2cffbd279380f864c965b4aa11b63509519e9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\shubhi\shubhi\Orders\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="F:\shubhi\shubhi\Orders\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_4ee0fb1dc534ce3dac4734842afef125ebad177f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\shubhi\shubhi\Orders\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="F:\shubhi\shubhi\Orders\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_a6e2a95d2e7e8685c09f762829f8fb6219a4ccea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\shubhi\shubhi\Orders\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="F:\shubhi\shubhi\Orders\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_0dfb655b7473c9e0d5fdbd7ceab5c99e6006e6ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\shubhi\shubhi\Orders\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="F:\shubhi\shubhi\Orders\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.2.0_eda8741353d165811526b3f22720e61d0b5dffa2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\shubhi\shubhi\Orders\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\shubhi\shubhi\Orders\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_089d1c611f782a9065f5a36691da4b9ec34dde51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\shubhi\shubhi\Orders\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="F:\shubhi\shubhi\Orders\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_75ca6edc2226b10e78eec41ea254d4c068503433\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\shubhi\shubhi\Orders\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="496d789a2b595c5ddf4c10c0f0e2eccc86cccac6">
+        <dex dex="F:\shubhi\shubhi\Orders\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_967fb227e2049a5bc2f36c69fe8e0422c39dfb66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="F:\shubhi\shubhi\Orders\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_9e24f7f490ed7547b7a2f62d633493984da9695f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\shubhi\shubhi\Orders\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="F:\shubhi\shubhi\Orders\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_61dc5386958153b187935a49e40591109711c081\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\shubhi\shubhi\Orders\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="F:\shubhi\shubhi\Orders\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_0c747a52df5fc7e350be9b55d6863294df3b5037\classes.dex" />
+    </item>
+
+</items>
